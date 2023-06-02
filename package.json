@@ -18,6 +18,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "babel-loader": "^9.1.2",
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   },
@@ -31,6 +32,4 @@
     "url": "https://github.com/amalahema/PWA_TextEditor/issues"
   },
   "homepage": "https://github.com/amalahema/PWA_TextEditor#readme"
-
-
 }
