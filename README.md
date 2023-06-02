@@ -41,19 +41,21 @@ THEN I should have proper build scripts for a webpack application
 ![display the page](./Assets/Capture.PNG)
 
 ### Links
-Github URL:  https://github.com/amalahema/
+Github URL:  https://github.com/amalahema/PWA_TextEditor
 
-
+## My Approach
 ### Code Construction
+
 - install webpack,service worker and Babel
 - install --save-dev webpack
 - initDb, putDb and getDb
 
 ### Learnings
-- how to add Html webpack plugin in webpack config file.
-- how to generate serivice worker by InjectManifest.
+
+- how to add Html web pack plugin in the webpack config file.
+- how to generate service worker by InjectManifest.
 - how to provide configuration details in webpackPwaManifest
-- how to add css loaders in webpack
+- how to add css loaders in Webpack
 - how to check IndexedDb
 - how to get and put content using objectStore
 
