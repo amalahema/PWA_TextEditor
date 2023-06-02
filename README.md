@@ -42,6 +42,7 @@ THEN I should have proper build scripts for a webpack application
 
 ### Links
 Github URL:  https://github.com/amalahema/PWA_TextEditor
+Heroku Deployed Url : https://texteditor-progressivewebapp.herokuapp.com/
 
 ## My Approach
 ### Code Construction
