@@ -39,6 +39,9 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ## Screenshot
 ![display the page](./Assets/Capture.PNG)
+![](./Assets/herokudeply.PNG)
+![](./Assets/02-service-worker.png)
+![](./Assets/localstorage.PNG)
 
 ### Links
 Github URL:  https://github.com/amalahema/PWA_TextEditor
